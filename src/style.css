@@ -1,0 +1,43 @@
+.header{
+  background-color: #2E262E;
+  padding: 20px;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  color: #78FFB7
+}
+h2{
+  text-align: center;
+  color: #69D4FF
+}
+h2:hover{
+  color: #FF4852
+}
+ul{
+  list-style: none;
+  text-align: center;
+  padding-top: 30px;
+}
+
+li{
+  display: inline;
+  padding: 10px; 
+}
+li:hover{
+  background-color: #FF4852;
+}
+img{
+  width: 200px;
+}
+.name{
+  font-size: 13px;
+  color: #fff;
+  text-align: right;
+  margin: 20px;
+}
+.footer{
+  background-color: #2E262E;
+  padding: ;
+  overflow: auto;
+}
